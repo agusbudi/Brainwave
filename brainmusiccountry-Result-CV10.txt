@@ -1,0 +1,30 @@
+#random forest
+Results
+===========
+
+Correctly Classified Instances         217               96.875  %
+Incorrectly Classified Instances         7                3.125  %
+Kappa statistic                          0.9573
+Mean absolute error                      0.1008
+Root mean squared error                  0.1706
+Relative absolute error                 27.4325 %
+Root relative squared error             39.8091 %
+Total Number of Instances              224     
+
+BUILD SUCCESSFUL (total time: 4 seconds)
+
+
+#Naive Bayes
+Results
+===========
+
+Correctly Classified Instances         169               75.4464 %
+Incorrectly Classified Instances        55               24.5536 %
+Kappa statistic                          0.6707
+Mean absolute error                      0.1246
+Root mean squared error                  0.3513
+Relative absolute error                 33.889  %
+Root relative squared error             81.9568 %
+Total Number of Instances              224     
+
+BUILD SUCCESSFUL (total time: 2 seconds)
